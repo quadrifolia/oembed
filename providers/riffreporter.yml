@@ -7,7 +7,7 @@
     example_urls:
     - https://www.riffreporter.de/service/oembed?url=https://www.riffreporter.de/was-ist-riffreporter/
     - https://www.riffreporter.de/service/oembed/json/?url=https://www.riffreporter.de/was-ist-riffreporter/
-    - https://www.riffreporter.de/service/oembed?url=https://www.riffreporter.de/was-ist-riffreporter/&service=json
-    - https://www.riffreporter.de/service/oembed?url=https://www.riffreporter.de/was-ist-riffreporter/&service=xml
+    - https://www.riffreporter.de/service/oembed?url=https://www.riffreporter.de/was-ist-riffreporter/&format=json
+    - https://www.riffreporter.de/service/oembed?url=https://www.riffreporter.de/was-ist-riffreporter/&format=xml
     - https://www.riffreporter.de/service/oembed/xml/?url=https://www.riffreporter.de/was-ist-riffreporter/
 ...
